@@ -17,9 +17,11 @@ As a manager you want to generate a webpage that displays your work teams basic 
 * Use command "npm install jest --save-dev" to install Jest Package (reference Jest in package.json)
 
 ## Demonstration 
+Watch the deployed version of this app [here](https://youtu.be/SQYSkVIw7Ig)!
 
 ## Screenshot (failed test included)
-Image 6-27-21 at 6.21 PM.jpg
+[Generated Example](./assets/Image 6-27-21 at 6.21 PM.jpg)
+[Failed Test](./assets/Image 6-27-21 at 6.21 PM.jpg)
 
 ## Questions 
 If you have any questions regarding this repo, please contact me via email at perezgenesisa@gmail.com
