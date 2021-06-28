@@ -1,7 +1,4 @@
-// create test for employee
-
 const Employee = require('..lib/Employee.js');
-const { TestWatcher } = require('jest');
 jest.mock('..lib/Employee.js');
 
 // gets employee name
