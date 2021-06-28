@@ -19,7 +19,7 @@ As a manager you want to generate a webpage that displays your work teams basic 
 ## Demonstration 
 
 ## Screenshot (failed test included)
-
+Image 6-27-21 at 6.21 PM.jpg
 
 ## Questions 
 If you have any questions regarding this repo, please contact me via email at perezgenesisa@gmail.com
